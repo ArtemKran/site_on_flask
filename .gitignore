@@ -43,3 +43,6 @@ flask_dev_venv
 
 #tmp
 tmp/
+
+#Pycharm config
+.idea
